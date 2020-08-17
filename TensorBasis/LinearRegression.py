@@ -35,4 +35,4 @@ for i in range(1000):
         print(sess.run(loss))
 
 #After you run the program,type "tensorboard --logdir=log" in the Terminal(get into the current dir first)
-#Then you can see the graph of this program on http://localhost:6006
+#Then you can see the graph of this program on http://ItemName:6006
